@@ -2,7 +2,6 @@ name: SlapBack
 main: jojoe77777\SlapBack\Main
 version: 1.0.0
 api: [3.0.0]
-mcpe-protocol: [471]
 author: [Vecnavium, jojoe77777]
 description: Slappers now hit back at you!
 depend: [Slapper]
